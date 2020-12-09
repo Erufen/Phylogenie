@@ -22,11 +22,12 @@ Le plus pratique est de mettre ce script dans un dossier dédié. Ici, nous l'ap
 
 1. Créez l'environnement depuis la page d'accueil de Wamp (localhost)
 
-  1.1  Ajoutez un nouvel virtual host (1)
+  1.1. Ajoutez un nouvel virtual host (1)
   
 ![Zozor](https://zupimages.net/up/20/50/fzu4.png)
 
-  1.2 Suivre les étapes de l'image :
+  1.2. Suivre les étapes de l'image :
+  
     * Entrez le nom du fichier (1)
     * Entrez le chemin complet du fichier (2)
     * Lancez la procédure de création (3)
