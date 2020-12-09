@@ -2,8 +2,9 @@
 ![Zozor](https://blog.nicolashachet.com/wp-content/uploads/2011/05/wamp.png)
 
 
-## Installation du logiciel
+## Téléchargement et installation du logiciel Wampserver
 https://www.wampserver.com/en/download-wampserver-64bits/
+
 
 ## Insatllation package mod_wsgi
 
@@ -18,7 +19,7 @@ Dans un terminal, tapez les commandes suivantes:
 ## Ajout du script .wsgi
 Le plus pratique est de mettre ce script dans un dossier dédié. Ici, nous l'appelons, scripts_wsgi.
 
-## Configuration du virtual host de Wamp
+## Configuration du virtual host de Wampserver
 
 1. Créez le virtual host depuis la page d'accueil de Wamp (localhost)
 
@@ -40,7 +41,7 @@ Ajoutez un nouvel virtual host (1)
 
 4. Sauvegardez et fermez le fichier
 
-## Lancez le serveur 
+## Démarrage de Wampserver 
 
 1. Double cliquer sur l'icone du logiciel
 2. Quand le serveur est prêt, il apparait en vert dans le sous-menu de la barre démarré
