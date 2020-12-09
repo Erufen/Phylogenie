@@ -55,14 +55,3 @@ Ajoutez un nouvel virtual host (1)
 4. Cliquez sur celui que vous avez créé et qui apparait dans la liste
 
 ![Zozor](https://zupimages.net/up/20/50/ehzt.bmp)
-
-
-
-
-
-
-
-
-
-
-
