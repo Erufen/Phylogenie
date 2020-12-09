@@ -44,7 +44,7 @@ Ajoutez un nouvel virtual host (1)
 ## Démarrage de Wampserver 
 
 1. Double cliquer sur l'icone du logiciel
-2. Quand le serveur est prêt, il apparait en vert dans le sous-menu de la barre démarré
+2. Quand le serveur est prêt, il apparait en vert dans le sous-menu de la barre des tâches
 
 ![Zozor](https://zupimages.net/up/20/50/0jwl.bmp)
 
