@@ -15,7 +15,7 @@ Dans un terminal, tapez les commandes suivantes:
 5. Ajoutez la ligne WSGIApplicationGroup %{GLOBAL}
 6. Sauvegardez et fermez le fichier
 
-## Création du script .wsgi
+## Ajout du script .wsgi
 Le plus pratique est de mettre ce script dans un dossier dédié. Ici, nous l'appelons, scripts_wsgi.
 
 ## Configuration du virtual host de Wamp
