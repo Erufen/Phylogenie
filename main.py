@@ -124,6 +124,7 @@ def ML_tree(infile, outfile, file_type):
 Entrez.email = "sentinelles.bioinfo@gmail.com"
 
 # Define user's operating system
+# 
 user_OS = 'win64'
 
 current_path = os.path.dirname(__file__)
