@@ -20,7 +20,7 @@ Dans un terminal, tapez les commandes suivantes:
 6. Sauvegardez et fermez le fichier
 
 ## Ajout du script .wsgi
-Le plus pratique est de mettre ce script dans un dossier dédié. Ici, nous l'appelons, scripts_wsgi.
+Le plus pratique est de mettre ce script dans un dossier dédié. Ici, nous l'appelons, wsgi_scripts.
 
 ## Configuration du virtual host de Wampserver
 
