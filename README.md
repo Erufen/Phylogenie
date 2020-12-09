@@ -14,6 +14,9 @@ Dans un terminal, tapez les commandes suivantes:
 3. Allez dans votre dossier wamp64\bin\apache\apache2.4.46\conf\httpd.conf
 4. Copiez les 3 lignes obtenues en point 2 à la suite des "LoadModule" (l'endroit n'a pas d'importance)
 5. Ajoutez la ligne WSGIApplicationGroup %{GLOBAL}
+
+![Zozor](https://zupimages.net/up/20/50/jeib.png)
+
 6. Sauvegardez et fermez le fichier
 
 ## Ajout du script .wsgi
